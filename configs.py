@@ -5,10 +5,10 @@ import os
 
 
 class Config(object):
-    API_ID = int(os.getenv("API_ID", "133273016"))
-    API_HASH = os.getenv("API_HASH", "68e791e61610028748b0a53ae86a661a12")
-    BOT_TOKEN = os.getenv("BOT_TOKEN", "5912048119:AAHrcUjE38mYG3noFRw5B5GQosaSJ6Fa7-x1s")
-    BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "lazydeveloperr")
+    API_ID = int(os.getenv("API_ID", "13239927)
+    API_HASH = os.getenv("API_HASH", "7a3ed8adf3b6bbcbc2e9fad879a556a9)
+    BOT_TOKEN = os.getenv("BOT_TOKEN", "6144224836:AAE9wwZoqOYx20yFvRrDsNRPLUGchzbOF6Q)
+    BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "baljeetsingh")
     USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1BVtsOKkBu09s73VLGQQnQZp81QLu_hvbfV9yEuhmccZdjyWtbbXB-m2ujGrZ8HY9RymfBfBDrrZqChCCLSXWhZ54D8FCVpkiAO1GI-c85ZDExvGUu_3g-QdoqL7Kf-K6tK4I-u8CmeNmQKXLO-jPS89BphFytogqFKYCNvv7Kw2WOlbcEzsijo5xFYFWmVsccKPGdgGL9xvWTB-51uH36joGzuBnT6TGMftMGmUK5DQQF5i6Lk2_0EknKBN5Q3YpP_JNiOl9PntcvYHPUkgecupU2m5DKi5TMwHgI5ohFMezIrHH0NNG63AHYf35UGSienCWbwG8Csn8VceLQMnXrKZcRbIy-McIY=")
 #   Channel id where your posts are stored.
     CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-100180838783308")) 
